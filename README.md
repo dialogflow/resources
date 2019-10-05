@@ -62,7 +62,7 @@ Note: For all other platforms please see API reference for a [webhook request](h
   </tr>
   <tr>
     <td><a href="https://github.com/dialogflow/fulfillment-multi-locale-nodejs" target="_blank">Multi locale/language</a></td>
-    <td>Create and fulfill a multilignual and multilocale agent with this French and English speaking sample</td>
+    <td>Create and fulfill a multilingual and multilocale agent with this French and English speaking sample</td>
     <td><a href="https://console.dialogflow.com/api-client/oneclick?templateUrl=https://oneclickgithub.appspot.com/dialogflow/fulfillment-multi-locale-nodejs&agentName=MultilocaleSample" target="_blank" class="gc-analytics-event" data-category="dialogflow" data-label="multi-language-one-click" target="_blank"><img src="https://raw.githubusercontent.com/dialogflow/resources/master/images/deploy.png"></a></td>
   </tr>
   <tr>
